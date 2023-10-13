@@ -3,7 +3,6 @@
 <!--
 **julyndav/julyndav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 📝 I’m currently working on studying for Tableau Desktop certification
 - 🧠 I’m currently expanding my working knowledge of SQL, Machine Learning and Power BI
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I make the best roasted broccoli 🥦 on earth
 -->
