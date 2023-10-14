@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm an introvert with a keen eye for detail, and I've found my perfect fit as a Data Analyst.
+### 👋 Hello! Data curious introvert here.
 
 Embarking on this coding and tech-based journey, I'm dedicated to not just showcasing my successes, but embracing the power of learning through experimentation and the knowledge gained from my failures. Each challenge I encounter is an opportunity to evolve and become a stronger, more adaptable data analyst and tech enthusiast.
 
