@@ -14,4 +14,4 @@ meaningful trends that enable them to better serve their communities.
 - 💬 Ask me anything about anything...as I help others, I learn as well.
 - 📫 How to reach me: Check me out on <a href="https://www.linkedin.com/in/julyndav/">LinkedIn</a>
 - ⚡ Fun fact: I make the best roasted broccoli 🥦 on earth
-
+- ❓ What to do next? Follow me to see what new visualizations I create!
