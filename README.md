@@ -1,18 +1,17 @@
-
+### Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/julyndav/">
-    <img src="https://img.shields.io/badge/julyndav-white?style=plastic&logo=linkedin&logoColor=white&labelColor=blue&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjulyndav%2F)"/>
+     <img src="https://github.com/julyndav/images/blob/main/linkedin.png" width="50" height="35"/>
   </a>
-  <a href="https://public.tableau.com/app/profile/julynda.vaughn/vizzes">
-    <img src="https://img.shields.io/badge/julyndav-white?style=plastic&logo=tableau&logoColor=white&label=Vizzes&labelColor=orange&color=orange&cacheSeconds=3600&link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fjulynda.vaughn%2Fvizzes"/>
-  </a> 
-  <a href="https://www.kaggle.com/julyndav/code">
-    <img src="https://img.shields.io/badge/julyndav-white?style=plastic&logo=kaggle&logoColor=white&label=my%20kaggle&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.kaggle.com%2Fjulyndav%2Fcode"/>
+<a href="https://public.tableau.com/app/profile/julynda.vaughn/vizzes">
+     <img src="https://github.com/julyndav/images/blob/main/tableau-full-logo-transparent-png-85396.png" width="60" height="35"/>
+  </a>
+<a href="https://www.kaggle.com/julyndav/code">
+    <img src="https://github.com/julyndav/images/blob/main/kaggle.png" width="60" height="35"/>
   </a>
  <a href="mailto:julynda@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=plastic&logo=protonmail" />
+    <img src="https://github.com/julyndav/images/blob/main/OIP.jpg" width="70" height="50"/>
   </a>
- 
 </div>
 
 
