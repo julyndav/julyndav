@@ -16,7 +16,7 @@
 
 ### 👋 Hello! Data curious introvert here.
 
-Embarking on this coding and tech-based journey, I'm dedicated to not just showcasing my successes, but embracing the power of learning through experimentation and the knowledge gained from my failures. Each challenge I encounter is an opportunity to evolve and become a stronger, more adaptable data analyst and tech enthusiast.
+Embarking on this coding and tech-based journey, I'm dedicated to not just showcasing my successes, but embracing the power of learning through experimentation and the knowledge gained from my failures. My skills include data analytics, data visualization, Python, Tableau, SQL, problem solving, computer troubleshooting, along with data cleaning/preperation and some Machine Learning. My current positon requires attention to detail, learning new software, time management, and constant communication with government, state and local agencies. Each challenge I encounter is an opportunity to evolve and become a stronger, more adaptable data analyst and tech enthusiast.
 
 📊 Current projects that I'm working on involve delving into data to uncover disparities in health and prenatal care. I'm passionate about using data to drive positive change.
 
