@@ -6,7 +6,7 @@
   <a href="https://www.kaggle.com/julyndav/code">
     <img src="https://img.shields.io/badge/julyndav-white?style=for-the-badge&logo=kaggle&logoColor=white&label=my%20kaggle&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.kaggle.com%2Fjulyndav%2Fcode"/>
   </a>
- <a href="mailto:juylnda@proton.me">
+ <a href="mailto:julynda@proton.me">
     <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail" />
   </a>
 </div>
