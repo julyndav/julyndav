@@ -9,9 +9,11 @@
  <a href="mailto:julynda@proton.me">
     <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=plastic&logo=protonmail" />
   </a>
+ <a href="https://public.tableau.com/app/profile/julynda.vaughn/vizzes">
+    <img src="https://img.shields.io/badge/julyndav-white?style=plastic&logo=tableau&logoColor=white&label=Vizzes&labelColor=orange&color=orange&cacheSeconds=3600&link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fjulynda.vaughn%2Fvizzes"/>
+  </a> 
+
 </div>
-
-
 
 
 ### 👋 Hello! Data curious introvert here.
