@@ -1,13 +1,13 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/julyndav/">
-    <img src="https://img.shields.io/badge/julyndav-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjulyndav%2F)"/>
+    <img src="https://img.shields.io/badge/julyndav-white?style=plastic&logo=linkedin&logoColor=white&labelColor=blue&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjulyndav%2F)"/>
   </a>
   <a href="https://www.kaggle.com/julyndav/code">
-    <img src="https://img.shields.io/badge/julyndav-white?style=for-the-badge&logo=kaggle&logoColor=white&label=my%20kaggle&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.kaggle.com%2Fjulyndav%2Fcode"/>
+    <img src="https://img.shields.io/badge/julyndav-white?style=plastic&logo=kaggle&logoColor=white&label=my%20kaggle&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.kaggle.com%2Fjulyndav%2Fcode"/>
   </a>
  <a href="mailto:julynda@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail" />
+    <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=plastic&logo=protonmail" />
   </a>
 </div>
 
