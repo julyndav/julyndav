@@ -1,19 +1,3 @@
-### Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/julyndav/">
-     <img src="https://github.com/julyndav/images/blob/main/linkedin.png" width="50" height="35"/>
-  </a>
-<a href="https://public.tableau.com/app/profile/julynda.vaughn/vizzes">
-     <img src="https://github.com/julyndav/images/blob/main/tableau-full-logo-transparent-png-85396.png" width="60" height="35"/>
-  </a>
-<a href="https://www.kaggle.com/julyndav/code">
-    <img src="https://github.com/julyndav/images/blob/main/kaggle.png" width="60" height="35"/>
-  </a>
- <a href="mailto:julynda@proton.me">
-    <img src="https://github.com/julyndav/images/blob/main/OIP.jpg" width="70" height="50"/>
-  </a>
-</div>
-
 
 ### 👋 Hello! Data curious introvert here.
 
