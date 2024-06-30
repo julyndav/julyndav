@@ -6,9 +6,9 @@
 
 ## About Me:
 
-Over the past year, I have been working on my skills as a Data Analyst through a diverse array of projects covering a board range of industries. My expertise spans Data Analytics, data visualization, Python, Tableau, SQL, and machine learning. Additionally, I bring strong problem-solving abilities, proficiency in IT troubleshooting, and extensive experience in data cleaning and preparation.
+Over the past year, I have been enhancing my skills as a Data Analyst through a diverse array of projects across various industries. My expertise spans data analytics, data visualization, Python, Tableau, SQL, and machine learning. Additionally, I bring strong problem-solving abilities, proficiency in IT troubleshooting, and extensive experience in data cleaning and preparation.
 
-In my current role, I demonstrate meticulous attention to detail while training staff on new software, manage time and projects efficiently, and maintain communication with government, state, and local agencies. Every challenge presents an opportunity for growth, fueling my passion for continuous learning and adaptation in the dynamic field of Data Analysis.
+In my current role, I demonstrate meticulous attention to detail, train staff on new software, manage time and projects efficiently, and maintain communication with government, state, and local agencies. Every challenge presents an opportunity for growth, fueling my passion for continuous learning and adaptation in the dynamic field of data analysis.
 <br>
 <br>
 
