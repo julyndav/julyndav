@@ -20,6 +20,6 @@ In my current role, I demonstrate meticulous attention to detail, train staff on
 - 🧠 Expanding my brain power on DAX, Machine Learning and getting back into MS Access databases
 - 💬 Ask me anything about anything...as I help others, I learn as well
 - 📫 How to reach me: Check me out on <a href="https://www.linkedin.com/in/julyndav/">LinkedIn</a>
-- ⚡ Fun fact: Avid Gamer
+- ⚡ Fun fact: Avid Gamer and Artist
 - ❓ What to do next? Follow me to see what new visualizations I create!
 
