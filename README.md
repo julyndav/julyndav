@@ -28,7 +28,6 @@ Explore my projects to see how I turn complex data into actionable insights and 
 
 <br>
 
-- 📝 I’m currently studying for the <i>Advanced Data Analytics Certification</i> from Google
 - 🧠 Expanding my brain power on DAX, Machine Learning and getting back into MS Access databases
 - 💬 Ask me anything about anything...as I help others, I learn as well
 - 📫 How to reach me: Check me out on <a href="https://www.linkedin.com/in/julyndav/">LinkedIn</a>
