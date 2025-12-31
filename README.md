@@ -29,7 +29,8 @@ In my current role, I support operational teams by improving data workflows, tra
    <li> Advanced DAX for interactive reporting </li>
    <li> Deeper SQL project work & case-study analysis </li>
 </ul>
-
+<p></p>
+<br>
 
 ## 🤝 Connect With Me: 
 <ul>
