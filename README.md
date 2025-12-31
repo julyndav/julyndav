@@ -1,6 +1,6 @@
 
-# 👩‍💻 Data Analyst
-
+# 👩‍💻 Data & Business Analyst  
+### Healthcare Data, Process Improvement, Workflow Optimization
 ### Python | SQL | Power BI | Excel | MS Access | Altreyx
 <br>
 
