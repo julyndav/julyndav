@@ -5,10 +5,11 @@
 <br>
 
 ## About Me:
+I specialize in bridging data analysis and business operations — redesigning workflows, building reporting systems, and improving data reliability so teams can make informed, practical decisions.
 
-I am a data analyst with experience building reporting workflows, optimizing databases, and creating analytics solutions that support business decision-making. Over the years, I have worked across multiple industries including healthcare, billing operations, HR analytics, and case-management systems with a focus on data management and process improvement.
+My experience spans healthcare, manufacturing, billing operations, HR analytics, and case-management systems, with a focus on process optimization, data governance, and real-world usability. I’ve worked extensively with operational stakeholders to streamline reporting, centralize fragmented data, and replace manual workflows with structured, maintainable systems.
 
-In my current role, I support operational teams by improving data workflows, training staff on new systems, and ensuring accuracy and compliance in reporting for state and local agency partners. I enjoy solving practical data problems, untangling messy datasets, and improving processes through structured analysis.
+In my current role, I support operational teams by improving data workflows, training staff on new systems, and ensuring accuracy and compliance in reporting for state and local agency partners. I enjoy solving practical data problems, untangling messy datasets, and translating business needs into analytical solutions that improve both efficiency and decision-making.
 
 ## 🔧 Core Skills:
 <ul>
