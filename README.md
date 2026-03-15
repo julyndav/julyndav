@@ -1,7 +1,7 @@
 
 # 👩‍💻 Data & Business Analyst  
 ### <i>Healthcare Data | Process Improvement | Operational Analytics</i>
-### Excel | SQL | Python | Power BI | Excel | MS Access | Alteryx
+### Excel | SQL | Python | Power BI | MS Access | Alteryx
 <br>
 
 ## About Me:
