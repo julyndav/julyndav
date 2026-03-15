@@ -21,11 +21,15 @@ I enjoy solving practical data problems, untangling messy datasets, and translat
 <br>
 
 ## 📜Featured Projects: 
+[Customer Churn Analysis (Excel)](https://github.com/julyndav/Excel/tree/main/Churn_Analysis) <p>
 <ul>
-   <li>Customer Churn Analysis (Excel)</li>
-   <li>A/B Testing Revenue Impact Analysis</li>
-   <li>UK Rail Passenger Behavior Analysis (Power BI)</li>
-</ul>
+<li>Excel analysis identifying customer retention risks and revenue impact.</li></ul><p>
+   
+[A/B Testing Revenue Impact Analysis (Python)](https://github.com/julyndav/Python/tree/main/AB_Analysis) <p>
+<ul>
+<li>Statistical analysis measuring marketing experiment effectiveness. </li></ul><p>
+UK Rail Passenger Behavior Analysis (Power BI)
+
 <br>
 
 ## 🔧 Core Skills:
