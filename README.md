@@ -1,29 +1,51 @@
 
 # 👩‍💻 Data & Business Analyst  
-### Healthcare Data, Process Improvement, Workflow Optimization
-### Python | SQL | Power BI | Excel | MS Access | Altreyx
+### <i>Healthcare Data | Process Improvement | Operational Analytics</i>
+### Excel | SQL | Python | Power BI | Excel | MS Access | Alteryx
 <br>
 
 ## About Me:
-I specialize in bridging data analysis and business operations — redesigning workflows, building reporting systems, and improving data reliability so teams can make informed, practical decisions.
+I specialize in bridging data analysis and business operations along with improving workflows, building reliable reporting systems, and helping teams make practical, data-informed decisions.
 
-My experience spans healthcare, manufacturing, billing operations, HR analytics, and case-management systems, with a focus on process optimization, data governance, and real-world usability. I’ve worked extensively with operational stakeholders to streamline reporting, centralize fragmented data, and replace manual workflows with structured, maintainable systems.
+My experience spans **healthcare, manufacturing, billing operations, HR analytics, and case-management systems**, with a strong focus on:
 
-In my current role, I support operational teams by improving data workflows, training staff on new systems, and ensuring accuracy and compliance in reporting for state and local agency partners. I enjoy solving practical data problems, untangling messy datasets, and translating business needs into analytical solutions that improve both efficiency and decision-making.
+• Process optimization  
+• Data governance and reporting accuracy  
+• Transforming manual workflows into structured systems  
+• Making complex data usable for operational teams  
 
-## 🔧 Core Skills:
-<ul>
-   <li> Data Analytics & Visualization — Python, Power BI, Excel </li>
-   <li> SQL — joins, aggregations, window logic, report queries </li>
-   <li> Problem-Solving & IT Troubleshooting</li>
-   <li> Data Cleaning & Preparation — quality checks, restructuring datasets </li>
-   <li> Process Optimization & Documentation </li>
-   <li> Stakeholder Communication & Staff Training </li>
-   <li> Time & Project Management </li>
-</ul>
-<p></p>
+In my current role, I support operational teams by improving **data workflows, reporting processes, and staff training** while ensuring compliance with state and local agency reporting requirements.
+
+I enjoy solving practical data problems, untangling messy datasets, and translating business needs into analytical solutions that improve efficiency and decision-making.
+
 <br>
 
+## 📜Featured Projects: 
+<ul>
+   <li>Customer Churn Analysis (Excel)</li>
+   <li>A/B Testing Revenue Impact Analysis</li>
+   <li>UK Rail Passenger Behavior Analysis (Power BI)</li>
+</ul>
+<br>
+
+## 🔧 Core Skills:
+
+**Data Analytics & Visualization**  
+Python, Power BI, Excel
+
+**SQL Analysis**  
+Joins, aggregations, window functions, reporting queries
+
+**Data Preparation**  
+Cleaning, validation, restructuring datasets
+
+**Operations & Process Improvement**  
+Workflow optimization, documentation, reporting systems
+
+**Collaboration**  
+Stakeholder communication, staff training, cross-team problem solving
+<p></p>
+<br>
 
 ## 🌱 What I’m Learning Now:
 <ul>
