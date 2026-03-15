@@ -1,6 +1,6 @@
 
 # 👩‍💻 Data & Business Analyst  
-### <i>Healthcare Data | Process Improvement | Operational Analytics</i>
+### <i>Revenue Management | Process Improvement | Operational Analytics</i>
 ### Excel | SQL | Python | Power BI | MS Access | Alteryx
 <br>
 
