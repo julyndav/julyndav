@@ -29,7 +29,7 @@ I enjoy solving practical data problems, untangling messy datasets, and translat
 <ul>
 <li>Statistical analysis measuring marketing experiment effectiveness. </li></ul><p>
 UK Rail Passenger Behavior Analysis (Power BI)
-
+<p></p>
 <br>
 
 ## 🔧 Core Skills:
