@@ -28,8 +28,9 @@ I enjoy solving practical data problems, untangling messy datasets, and translat
 [A/B Testing Revenue Impact Analysis (Python)](https://github.com/julyndav/Python/tree/main/AB_Analysis) <p>
 <ul>
 <li>Statistical analysis measuring marketing experiment effectiveness. </li></ul><p>
-[Rail Revenue & Operations Analysis (Power BI)](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail)
-<p></p>
+   
+[Rail Revenue & Operations Analysis (Power BI)](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) <p>
+</p>
 <br>
 
 ## 🔧 Core Skills:
