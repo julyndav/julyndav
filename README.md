@@ -31,7 +31,7 @@ I enjoy solving practical data problems, untangling messy datasets, and translat
    
 [Rail Revenue & Operations Analysis (Power BI)](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) <p>
 <ul>
-<li>How Low Railcard Adoption Could Represent a $627K Revenue Opportunity</li></ul>
+<li>How low railcard adoption could represent a $627K revenue opportunity</li></ul>
 </p>
 <br>
 
