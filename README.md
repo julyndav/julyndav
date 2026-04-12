@@ -15,6 +15,8 @@ I specialize in:
 <li> Writing SQL queries to extract and transform data </li>
 <li> Cleaning and structuring messy datasets </li>
 <li> Improving business processes to save time and reduce errors </li>
+</ul>
+<p></p>
 
 In my full-time work, I’ve:
 
