@@ -42,20 +42,20 @@ In my current role, I support operational teams by improving **data workflows, r
 
 ## 🔧 Core Skills:
 
-**Data Analytics & Visualization**  
-Python, Power BI, Excel
+**Data & Visualization**  
+Power BI(DAX, Power Query, Data Modeling), Excel(Advanced Formulas, Pivot Tables, Automation), Alteryx
 
-**SQL Analysis**  
-Joins, aggregations, window functions, reporting queries
+**Data & Systems**  
+SQL(Joins, CTEs, Window Functions), Microsoft Access(Database Design), Python(Pandas, NumPy), BigQuery
 
-**Data Preparation**  
-Cleaning, validation, restructuring datasets
+**Business Systems**  
+NetSuite ERP, SharePoint, Office 365 Implementation
 
-**Operations & Process Improvement**  
-Workflow optimization, documentation, reporting systems
+**Process Improvement**  
+Workflow Automation, Reporting Optimization, Data Cleaning & ETL, Documentation & Training
 
-**Collaboration**  
-Stakeholder communication, staff training, cross-team problem solving
+**Domain Expertise**  
+Healthcare Claims, Medicaid Billing, Revenue Cycle, Financial Operations
 <p></p>
 <br>
 
