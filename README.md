@@ -9,11 +9,12 @@
 Ju-Lynda here, I focus on helping turn messy, manual processes into efficient, automated systems using data.
 
 I specialize in:
-▪️Automating Excel and reporting workflows
-▪️Building Power BI dashboards that actually get used
-▪️Writing SQL queries to extract and transform data
-▪️Cleaning and structuring messy datasets
-▪️Improving business processes to save time and reduce errors
+<ul>
+<li> Automating Excel and reporting workflows </li>
+<li> Building Power BI dashboards that actually get used </li>
+<li> Writing SQL queries to extract and transform data </li>
+<li> Cleaning and structuring messy datasets </li>
+<li> Improving business processes to save time and reduce errors </li>
 
 In my full-time work, I’ve:
 
