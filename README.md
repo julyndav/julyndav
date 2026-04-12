@@ -1,22 +1,27 @@
 
 # 👩‍💻 Data & Business Analyst  
-### <i>Revenue Management | Process Improvement | Operational Analytics</i>
+### <i>Operations & Data Analyst | Process Improvement | Automation & Reporting</i>
 ### Excel | SQL | Python | Power BI | MS Access | Alteryx
 <br>
 
 ## About Me:
-I specialize in bridging data analysis and business operations along with improving workflows, building reliable reporting systems, and helping teams make practical, data-informed decisions.
 
-My experience spans **healthcare, manufacturing, billing operations, HR analytics, and case-management systems**, with a strong focus on:
+Ju-Lynda here, I focus on helping turn messy, manual processes into efficient, automated systems using data.
 
-• Process optimization  
-• Data governance and reporting accuracy  
-• Transforming manual workflows into structured systems  
-• Making complex data usable for operational teams  
+I specialize in:
+▪️Automating Excel and reporting workflows
+▪️Building Power BI dashboards that actually get used
+▪️Writing SQL queries to extract and transform data
+▪️Cleaning and structuring messy datasets
+▪️Improving business processes to save time and reduce errors
+
+In my full-time work, I’ve:
+
+Reduced billing processing time by 50% through automation
+Recovered $5K+ monthly by identifying data-driven process gaps
+Built reporting systems used across teams for better decision-making
 
 In my current role, I support operational teams by improving **data workflows, reporting processes, and staff training** while ensuring compliance with state and local agency reporting requirements.
-
-I enjoy solving practical data problems, untangling messy datasets, and translating business needs into analytical solutions that improve efficiency and decision-making.
 
 <br>
 
