@@ -1,58 +1,49 @@
+## 👋 Hi, I'm Ju-Lynda Vaughn
 
-# 👩‍💻 Data & Business Analyst  
-### <i>Operations & Data Analyst | Process Improvement | Automation & Reporting</i>
-### Excel | SQL | Python | Power BI | MS Access | Alteryx
+### <i>Revenue Cycle & Business Analyst | Process Improvement | Data Reporting | Excel · SQL · Python · Power BI · MS Access · Alteryx</i>
 <br>
 
-## About Me:
+## About Me
 
-Ju-Lynda here, I focus on helping turn messy, manual processes into efficient, automated systems using data.
+I'm an analyst with 10+ years of experience turning operational and financial data into measurable business improvements — from automating reporting workflows to investigating claim denials to building dashboards teams actually use.
 
-I specialize in:
+In my current role, I manage Medicaid billing operations and reporting for a healthcare organization, where I:
 <ul>
-<li> Automating Excel and reporting workflows </li>
-<li> Building Power BI dashboards that actually get used </li>
-<li> Writing SQL queries to extract and transform data </li>
-<li> Cleaning and structuring messy datasets </li>
-<li> Improving business processes to save time and reduce errors </li>
-</ul>
-<p></p>
+<li>Built and maintain a relational database supporting 300+ client records</li>
+<li>Automated monthly Excel workflows, cutting processing time by 50%</li>
+<li>Investigate claim denials through root-cause analysis, recovering an average of $5K/month while maintaining a 98% payment rate</li>
+<li>Build Power BI dashboards used by management to track KPIs and denial trends</li></ul>
 
-In my full-time work, I’ve:
-
-Reduced billing processing time by 50% through automation
-Recovered $5K+ monthly by identifying data-driven process gaps
-Built reporting systems used across teams for better decision-making
-
-In my current role, I support operational teams by improving **data workflows, reporting processes, and staff training** while ensuring compliance with state and local agency reporting requirements.
-
+This repo showcases independent projects where I apply the same approach — SQL, Python, and Power BI — to practice and demonstrate end-to-end analysis, from raw data to business recommendation.
+</p>
 <br>
 
 ## 📜Featured Projects: 
 [Customer Churn Analysis (Excel)](https://github.com/julyndav/Excel/tree/main/Churn_Analysis) <p>
 <ul>
-<li>Excel analysis identifying customer retention risks and revenue impact.</li></ul><p>
+<li>Analyzed 6,600+ customer records to identify churn drivers and high-risk segments, including an 88% churn rate among month-to-month customers.</li></ul><p>
    
 [A/B Testing Revenue Impact Analysis (Python)](https://github.com/julyndav/Python/tree/main/AB_Analysis) <p>
 <ul>
-<li>Statistical analysis measuring marketing experiment effectiveness. </li></ul><p>
+<li>Defined and evaluated experiment success metrics, identifying a 13.8% conversion lift for the test group through statistical significance testing. </li></ul><p>
    
 [Rail Revenue & Operations Analysis (Power BI)](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) <p>
 <ul>
-<li>How low railcard adoption could represent a $627K revenue opportunity</li></ul>
+<li>Built an interactive dashboard analyzing railcard adoption, identifying up to ~$627K in potential annual revenue if non-railcard passengers converted at the standard railcard rrate.</li></ul>
 </p>
 <br>
+
 
 ## 🔧 Core Skills:
 
 **Data & Visualization**  
-Power BI(DAX, Power Query, Data Modeling), Excel(Advanced Formulas, Pivot Tables, Automation), Alteryx
+Power BI (DAX, Power Query, Data Modeling), Excel (Advanced Formulas, Pivot Tables, Automation), Alteryx
 
 **Data & Systems**  
-SQL(Joins, CTEs, Window Functions), Microsoft Access(Database Design), Python(Pandas, NumPy), BigQuery
+SQL (Joins, CTEs, Window Functions), Microsoft Access (Database Design), Python (Pandas, NumPy), BigQuery
 
 **Business Systems**  
-NetSuite ERP, SharePoint, Office 365 Implementation
+NetSuite ERP, SharePoint, Office 365
 
 **Process Improvement**  
 Workflow Automation, Reporting Optimization, Data Cleaning & ETL, Documentation & Training
@@ -72,8 +63,7 @@ Healthcare Claims, Medicaid Billing, Revenue Cycle, Financial Operations
 
 ## 🤝 Connect With Me: 
 <ul>
-   <li>💬 I enjoy helping others troubleshoot data challenges — I always learn something new in the process </li>
    <li>📫 Connect on LinkedIn: https://www.linkedin.com/in/julyndav/ </li>
-   <li>⚡ Fun fact: I’m also an artist and lifelong gamer </li>
-</ul>
+  </ul>
+
 
