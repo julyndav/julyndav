@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm an analyst with 10+ years of experience turning operational and financial data into measurable business improvements. From automating reporting workflows to investigating claim denials to building dashboards teams actually use.
+I'm an analyst with 6+ years of experience turning operational and financial data into measurable business improvements. From automating reporting workflows to investigating claim denials to building dashboards teams actually use.
 
 In my current role, I manage Medicaid billing operations and reporting for a healthcare organization, where I:
 <ul>
