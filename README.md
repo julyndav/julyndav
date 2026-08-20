@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ju-Lynda Vaughn
+# 👋 Hi, I'm Ju-Lynda 
 
 ### <i>Revenue Cycle & Business Analyst | Process Improvement | Data Reporting | Excel · SQL · Python · Power BI · MS Access · Alteryx</i>
 <br>
