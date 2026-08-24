@@ -14,7 +14,7 @@ In my current role, I manage Medicaid billing operations and reporting for a hea
 <li>Investigate claim denials through root-cause analysis, recovering an average of $5K/month while maintaining a 98% payment rate</li>
 <li>Build Power BI dashboards used by management to track KPIs and denial trends</li></ul>
 
-This repo showcases independent projects where I apply the same approach. SQL, Python, and Power BI to practice and demonstrate end-to-end analysis, from raw data to business recommendation.
+This repo showcases independent projects where I apply the same approach. SQL, Python, and Power BI to practice and demonstrate end-to-end analysis from raw data.
 </p>
 <br>
 
