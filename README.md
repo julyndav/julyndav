@@ -25,7 +25,7 @@ This repo showcases independent projects where I apply the same approach. SQL, P
    
 [A/B Testing Revenue Impact Analysis (Python)](https://github.com/julyndav/Python/tree/main/AB_Analysis) <p>
 <ul>
-<li>Defined and evaluated experiment success metrics, identifying a 13.8% conversion lift for the test group through statistical significance testing. </li></ul><p>
+<li>Defined and evaluated experiment success metrics, identifying a 18% conversion rate for the test group through statistical significance testing. </li></ul><p>
    
 [Rail Revenue & Operations Analysis (Power BI)](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) <p>
 <ul>
